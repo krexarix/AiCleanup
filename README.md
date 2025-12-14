@@ -3,7 +3,7 @@
 Terms of Use
 Effectiveness date: April, 2025
 
-#1. General
+# 1. General
 
 The present Terms of Service explain the conditions and rules that govern the download and use of the application: AI Cleanup (hereinafter, “the App”), which is owned and operated by Bendiks Boege, residing at Am Sandtorkai 77, 20457 Hamburg, Germany, contact email: aicleanup.app@gmail.com (hereinafter, “the Service Provider”, “we”, “us”, “our”). The App is not affiliated with any other platforms or third parties.
 
@@ -17,7 +17,7 @@ The nullity, total or partial, of any of the provisions of these Terms of Servic
 
 For any doubt or question related to these Terms of Service, please contact us by email: aicleanup.app@gmail.com.
 
-#2. About the App’s Functionalities
+# 2. About the App’s Functionalities
 
 The App consists in offering Users the Smart Cleaning tool, for personal non-commercial use, which gives them the possibility to keep their device clean and organized, to free up storage space, by means of removing duplicate or similar and even blurred content, including photographs (even screenshots) and videos from their camera roll, calendar events and contacts (they can also be merged).
 
@@ -35,7 +35,7 @@ Some features of the App work offline, so internet connection is not necessarily
 
 We reserve the right to update features and/or functionalities of the App at any time. Please refer to the “Updates” section of these Terms of Service.
 
-#3. Access and Use of the App
+# 3. Access and Use of the App
 
 The App is available for iOS (and potentially Android) operated systems and devices. To download and/or use the App, the User must be an adult according to the laws and regulations of their birth or residence country and/or state.
 
@@ -51,11 +51,11 @@ We do our best so that the App is available at all times for the User and to mai
 
 We do not specify that the App will be available worldwide. We may limit the availability of the App and/or of specific features or functionalities to Users from certain geographic locations at any time. Access to the App from an unauthorized location is entirely at the User’s own risk and responsibility.
 
-#4. Updates
+# 4. Updates
 
 We are committed to ensure that the App is as useful and efficient as possible. For that reason, we reserve the right to make changes to the App and we may add, modify or eliminate features and/or functionalities at any time, for any reason, which are accepted by the User when installing the App. In any case, when making such changes, the User will be notified through the same App. We will never charge you for the App or its services without making it very clear to you exactly what you’re paying for. If a new version of the App is launched or if new features and/or functionalities are added, we may ask you to update the App on your electronic device. Likewise, we may show the User (and invite them to read) a new updated version of these Terms of Service before using the new version of the App. By using the new version of the App, the User clearly states they have read, understood and accepted the new Terms of Service shown.
 
-#5. User Commitments (Code of conduct)
+# 5. User Commitments (Code of conduct)
 
 By using the App, the User agrees to (including but not limited to):
 
@@ -85,7 +85,7 @@ We reserve the right to block or eliminate access to the App to Users for the af
 
 We, in our sole discretion, may eliminate access to the App for a User at any time without stating the reasons behind its decision.
 
-#6. Subscription to Premium Services and Payment
+# 6. Subscription to Premium Services and Payment
 
 Users can access and use certain functionalities of the App without being charged with a fee nor implying any cost. However, Users have the option to use paid features and/or functionalities that the App offers, which are known as “premium services”. If the Users decide to use them, the App will display several subscription options (e.g., weekly, monthly, yearly) to cater to the diverse needs and preferences of the User.
 
@@ -107,17 +107,17 @@ Bear in mind that directly removing the App from your device, does not imply the
 
 If the User has requests in regards to the charges made, you must directly contact Apple/Google.
 
-#7. Refund Policy
+# 7. Refund Policy
 
 Refund requests will be exclusively handled by Apple/Google in accordance with its own rules and regulations. In the event that Apple/Google does not approve the refund request made by the user, no refund will be made by our Service. Apple/Google will be the ones who will establish the period of time in which the User will receive, if approved, the refund according to their own policies.
 
 For further information regarding a refund request to Apple check the following link: https://support.apple.com/en-us/HT204084.
 
-#8. Technical Means for Correcting Errors
+# 8. Technical Means for Correcting Errors
 
 If users and/or customers detect an error, or if their personal data or any information provided by them is not exact, correct or completed, they must amend it by accessing their Apple/Google user account directly. Likewise, if customers detect an error in the charges made on their bank statement for the costs of the Services options or premium service chosen, they also must directly contact Apple/Google.
 
-#9. Intellectual Property Rights
+# 9. Intellectual Property Rights
 
 The App itself and all the elements contained within this App, whether it be texts, articles, descriptions, trademarks, images, graphics, sounds, videos, brands, logos, copyright, database rights, interactive features or any other element, its structure and design, the selection and presentation of the content and elements included therein, and the software necessary for its operation, access and utilization are the property of the Service Provider or the partners with whom we have submitted the corresponding licenses. All the elements of the present App are protected by intellectual property rights that must be respected by the User.
 
@@ -131,7 +131,7 @@ Any of the aforementioned actions are expressly and totally forbidden and will c
 
 We reserve the right to take any and all necessary legal actions, including compensation for direct and indirect damages, at our disposal that will be considered appropriate for the best defense of our legitimate rights and interests, in the event of an infringement of our intellectual property rights.
 
-#10. Exemption of Liability
+# 10. Exemption of Liability
 
 The App is provided “as is'' without any warranties, either expressly or implied including but not limited to guarantees of fitness for a particular purpose; and, consequently, the download and/or use of the App is at the User’s own risk and responsibility.
 
@@ -147,15 +147,15 @@ The content uploaded to the App and subsequently shared cannot be used for comme
 
 The User breaches his/her commitments and/or any other provision set out in these Terms of Service.
 
-#11. Withdrawal Right
+# 11. Withdrawal Right
 
 By downloading and subscribing to the App, you acknowledge and accept that its content/services are made available to you immediately and, therefore, the withdrawal right that the applicable legislation recognizes to users (consumers) does not apply or is waived upon the commencement of the download/service, in accordance with EU Consumer Rights Directive guidelines for digital content.
 
-#12. Data Protection
+# 12. Data Protection
 
 The personal data collected for the provision of the services offered through this App, as well as those obtained from your interaction with the App will be processed in accordance with our Privacy Policy.
 
-#13. Applicable law and jurisdiction
+# 13. Applicable law and jurisdiction
 
 These Terms of Service shall be governed by and construed in accordance with the currently applicable laws of the Federal Republic of Germany. Any action arising out of or relating to these Terms of Service shall be filed only in courts or arbitration tribunals located in Hamburg, Germany and you hereby consent and submit to the personal jurisdiction of such courts or arbitration tribunals.
 
